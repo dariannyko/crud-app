@@ -1,0 +1,1 @@
+export type SliceItemType = string | null;
